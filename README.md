@@ -26,7 +26,7 @@
 
 ![img1](https://github.com/polljii/projectiam/blob/main/projectiam1.png)
 
-![img2](https://github.com/polljii/projectiam/blob/main/projectiam2.png)
+![img2](https://github.com/polljii/projectiam/blob/main/projectiam2.svg)
 
 ![img3](https://github.com/polljii/projectiam/blob/main/projectiam3.png)
 
